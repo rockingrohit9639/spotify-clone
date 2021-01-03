@@ -1,6 +1,13 @@
 # Spotify-Clone
 
 This is a simple clone of the official website of spotify. This project is created using ReactJs.
+#### Some key features
+You can play/pause song.
+You can skip next/previous song.
+Find your playlists.
+Play a playlist.
+
+**Note You should have premium account on spotify to play/pause songs on this clone.
 
 ## Available Scripts
 
