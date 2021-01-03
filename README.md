@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Spotify-Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple clone of the official website of spotify. This project is created using ReactJs.
 
 ## Available Scripts
 
